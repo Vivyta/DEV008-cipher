@@ -16,48 +16,17 @@
 
 ## 1. Preámbulo
 
-Cifrar significa ocultar el contenido de un mensaje a simple vista, de manera
-que sólo las partes autorizadas pueden descifrar un texto cifrado.
-El [cifrado César](https://en.wikipedia.org/wiki/Caesar_cipher)
-es uno de los primeros métodos de cifrado conocidos. El emperador romano Julio
-César lo usaba para enviar órdenes secretas a sus generales en los campos de
-batalla.
-
-El cifrado césar es una de las técnicas más simples para cifrar un mensaje. Es
-un tipo de cifrado por sustitución, es decir que cada letra del texto original
-es reemplazada por otra que se encuentra un número fijo de posiciones
-(desplazamiento) más adelante en el mismo alfabeto.
-
-![caeser-cipher](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Caesar3.svg/2000px-Caesar3.svg.png)
-
-Por ejemplo, si usamos un desplazamiento (_offset_) de 3 posiciones:
-
-* La letra A se cifra como D.
-* La palabra CASA se cifra como FDVD.
-* Alfabeto sin cifrar: A B C D E F G H I J K L M N O P Q R S T U V W X Y Z
-* Alfabeto cifrado: D E F G H I J K L M N O P Q R S T U V W X Y Z A B C
-
-En la actualidad, todos los cifrados de sustitución simple se descifran con
-mucha facilidad y, aunque en la práctica no ofrecen mucha seguridad en la
-comunicación por sí mismos; el cifrado César sí puede formar parte de sistemas
-más complejos de codificación, como el cifrado Vigenère, e incluso tiene
-aplicación en el sistema ROT13.
+al comenzar la etapa escolar , tambien comienzan las evaluaciones de aprendizajes , este instrumento cabe señalar se inicia con el objetivo de medir y cuantificar el real aprendizaje de los alumnos y alumnas. en algunas personalidades esta medida no les es comoda y suele hacerles sentir verguenza , frustacion, exposicion, entre otras. Es por esto que nace esta herramienta enfocada en solucionar esta problematica para algunos alumnos quienes desean privacidad a la hora de recibir sus calificaciones o mensajes , haciendo de esta pagina un metodo rapido,efectivo y privado para alumnos como profesores.
 
 ## 2. Resumen del proyecto
 
-En este proyecto crearás una aplicación web que servirá para que tu usuaria
-pueda cifrar y descifrar un texto en el navegador indicando un desplazamiento
-específico de caracteres (_offset_). Lo harás utilizando HTML, CSS y JavaScript.
+ este proyecto esta centrado principalmente en niños de edad escolar basica(entre 8 a 12 años ) siendo una plataforma 
+ de apoyo para profesores que deseen regalar a sus alumnos  privacidad en la entrega de las calificaciones. 
 
-La temática es libre. Piensa en qué situaciones se necesitaría cifrar un mensaje.
-Decide cómo debe ser esa experiencia de uso (qué pantallas, explicaciones, mensajes,
-colores, etc.) Algunas ideas de ejemplo:  
+cuando un profesor ingrese al portal podra ingresarla informacion que desee entregar a sus alumnos  sin la necesidad de estar presente al alumn@ ni éste frente de sus pares.
 
-* Crear claves seguras para el email.
-* Encriptar/cifrar una tarjeta de crédito.
-* Herramienta de mensajería interna de una organización de derechos humanos en
-  una zona de conflicto.
-* Mensajería secreta para parejas.
+aqui cada alumno y profeso@r podran mantener mensajes de manera privada 
+
 
 Como continuación del proyecto de preadmisión, volverás a trabajar sobre
 fundamentos de JavaScript, incluyendo conceptos como variables, condicionales,
