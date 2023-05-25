@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(87, 208, 208);
+  background-image: url("https://previews.123rf.com/images/lordalea/lordalea1006/lordalea100600023/7127947-regreso-a-la-escuela-peque%C3%B1o-ni%C3%B1o-lindo-venir-a-casa-con-buenas-calificaciones-ni%C3%B1a-peque%C3%B1a.jpg");
+  background-repeat: no-repeat;
+  background-position: 90% 120%;
+  background-size: 30% 80%;
+
+}
+
+html {
+  color: hsl(252, 48%, 45%);
+  text-align: center;
+}
+
+.mensaje {
+  text-align: center;
+}
